@@ -1,0 +1,213 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.38f1 (8f5fde82e2dc) revision 9396190'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16268 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mrpfi/OneDrive/Desktop/Hololens Research/Research Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56425
+Successfully changed project path to: C:/Users/mrpfi/OneDrive/Desktop/Hololens Research/Research Project
+C:/Users/mrpfi/OneDrive/Desktop/Hololens Research/Research Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 111.58 ms, found 12 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.38f1 (8f5fde82e2dc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mrpfi/OneDrive/Desktop/Hololens Research/Research Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002376 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 103.72 ms, found 12 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1037ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (835ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (226ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (302ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (104ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (136ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010423 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 80.21 ms, found 12 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[XR] [MROpenXR][Info   ][22:39:19.319142][tid:4ba0] MeshProvider_RegisterLifecycleProvider
+[XR] [MROpenXR][Info   ][22:39:19.319262][tid:4ba0] InputProvider_RegisterLifecycleProvider
+[XR] Error loading subsystem: Display (1) (header mismatch?)
+[XR] [MROpenXR][Info   ][22:39:19.321861][tid:4ba0] OnPluginStarted UnityVersion=2020.3.38f1 OpenXRPluginVersion=1.5.3 MROpenXRPluginVersion=1.5.1.0 PartA_PrivTags=33554432
+Mono: successfully reloaded assembly
+- Completed reload, in  2.522 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2530ms)
+		BeginReloadAssembly (206ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (2237ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (428ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (1387ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (80ms)
+				BeforeProcessingInitializeOnLoad (128ms)
+				ProcessInitializeOnLoadAttributes (1117ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 12 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3597 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.3 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4045.
+Total: 6.070200 ms (FindLiveObjects: 0.385200 ms CreateObjectMapping: 0.276200 ms MarkObjects: 5.294000 ms  DeleteObjects: 0.113800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/10-05-2022_GLOSS texture.obj
+  artifactKey: Guid(9c034fe6ee353cf4e8ff2673fb1eab67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/10-05-2022_GLOSS texture.obj using Guid(9c034fe6ee353cf4e8ff2673fb1eab67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563c8fb901cc6c94e82f540b11bd269d') in 0.796231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Scenes/10-05-2022_GLOSS_tex.png
+  artifactKey: Guid(94f8f784d1087794b922d4f1b189d3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/10-05-2022_GLOSS_tex.png using Guid(94f8f784d1087794b922d4f1b189d3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bab50ec57855149018544a0dd1b090') in 0.121003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.223063 seconds.
+  path: Assets/Scenes/10-05-2022_GLOSS texture.obj.mtl
+  artifactKey: Guid(410634117145b5f49a72f7cd2f8bc01b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/10-05-2022_GLOSS texture.obj.mtl using Guid(410634117145b5f49a72f7cd2f8bc01b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e7a9704a8b39c6073c650f6c4d4d5b') in 0.013373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 146.137206 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat
+  artifactKey: Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat using Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b775d5240a537cadaa102879a9b59061') in 0.196866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat
+  artifactKey: Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat using Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867c37191734b83677301b6e336cd9ff') in 0.371513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 194.177306 seconds.
+  path: Assets/Scenes/New Material.mat
+  artifactKey: Guid(58eaf624dbfc13341800dd38cbdc7722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Material.mat using Guid(58eaf624dbfc13341800dd38cbdc7722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b2d97279af7bd6a6c7216a337cab45') in 0.020529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.057573 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark.png
+  artifactKey: Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark.png using Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9bf433fb547032228b4d815894f522') in 0.027874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Packages/com.unity.xr.arfoundation/Editor/Icons/ARVR@4x.png
+  artifactKey: Guid(e7df757aba3e54a11a832b1b8cbe5aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Editor/Icons/ARVR@4x.png using Guid(e7df757aba3e54a11a832b1b8cbe5aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27f8390092ee3a98d29f12a3e10652fd') in 0.059063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark.png
+  artifactKey: Guid(8e3ec2dfd58b79842aa78376678a9a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark.png using Guid(8e3ec2dfd58b79842aa78376678a9a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0990a643d4d0aeb8c53e31c6520370') in 0.022271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark@2x.png
+  artifactKey: Guid(9c6313a5316f8a34b852bf94ff96e3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark@2x.png using Guid(9c6313a5316f8a34b852bf94ff96e3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f51806b1b77ddb7f3b3a03183c3d2a') in 0.026336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark@2x.png
+  artifactKey: Guid(c223e0c507e2c6549a2cb97441b62cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark@2x.png using Guid(c223e0c507e2c6549a2cb97441b62cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96047ebc2d79d9f715a577f9c0f346a1') in 0.025199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light@2x.png
+  artifactKey: Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light@2x.png using Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216d72dc1eb5569fb7e2b32d740a14e5') in 0.024118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light.png
+  artifactKey: Guid(397fff6c3885f8343bb65714f0064b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light.png using Guid(397fff6c3885f8343bb65714f0064b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20a31c7928ae7821615f0f4a0a2759e') in 0.022939 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
